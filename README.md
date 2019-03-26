@@ -8,7 +8,7 @@ What is the greatest problem that has plagued humans since the begining of time?
 
 ## How it Works
 
-The Sibling Detector uses a dataset (about 6 images) and uses face recognition to detect if your sibling is nearby.
+The Sibling Detector uses a dataset (about 6 images) and uses face recognition to detect if your sibling is nearby and sounds an alert.
 
 ## How the Dataset is Made
 
