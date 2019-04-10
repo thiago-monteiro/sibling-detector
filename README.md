@@ -23,13 +23,13 @@ This is programmed in Python 3 and has been tested in versions 3.5 and 3.6.
 
 ###### To Run the App:
 
-python pi_face_recognition.py --cascade haarcascade_frontalface_default.xml --encodings encodings.pickle
+`python pi_face_recognition.py --cascade haarcascade_frontalface_default.xml --encodings encodings.pickle`
 
 Assuming the generic human faces are in haarcascade_frontalface_default.xml and the encoded custom faces (your sibling and other people you know) are in a file called encodings.pickle.
 
 ###### To Encode the Images:
 
-python encode_faces.py --dataset dataset --encodings encodings.pickle --detection-method hog
+`python encode_faces.py --dataset dataset --encodings encodings.pickle --detection-method hog`
 
 Assuming the folder with images is called dataset and the output is encodings.pickle.
 
