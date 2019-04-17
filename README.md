@@ -36,7 +36,7 @@ Assuming the folder with images is called dataset and the output is encodings.pi
 (hog is reccomended over cnn because it is much faster to encode)
 
 ###### Python Modules Required:
-Pygame,
-imutils,
-face_recognition,
-and opencv-python
+Pygame (pip install pygame),
+imutils (pip install imutils),
+face_recognition (pip install face_recognition),
+and opencv for python (pip install opencv-python)
