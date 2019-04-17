@@ -40,3 +40,9 @@ Pygame (pip install pygame),
 imutils (pip install imutils),
 face_recognition (pip install face_recognition),
 and opencv for python (pip install opencv-python)
+
+## FAQ
+
+###### Why would I want to put people besides my sibling?
+
+Because the face detection is actually pretty decent.
