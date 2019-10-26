@@ -45,4 +45,4 @@ and opencv for python (pip install opencv-python)
 
 ###### Why would I want to put people besides my sibling?
 
-Because the face detection is actually pretty decent.
+Because the face detection is actually pretty decent and it shows who a person is on top of a box over their face.
