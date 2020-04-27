@@ -8,7 +8,7 @@ What is the greatest problem that has plagued humans since the begining of time?
 
 ## How it Works
 
-The Sibling Detector uses a dataset (about 6 images) and uses face recognition to detect if your sibling is nearby and sounds an alert.
+The Sibling Detector uses a dataset (about 6 images or more per person) and uses face recognition to detect if your sibling is nearby and sounds an alert.
 
 ## How the Dataset is Made
 
@@ -46,3 +46,7 @@ and opencv for python (pip install opencv-python)
 ###### Why would I want to put people besides my sibling?
 
 Because the face detection is actually pretty decent and it shows who a person is on top of a box over their face.
+
+###### What is Sibling OS?
+
+It is an operating system that allows you to easily use the Sibling Detector. It runs on all Raspberry Pis including the Raspberry Pi 4.
