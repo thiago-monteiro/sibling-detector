@@ -33,8 +33,6 @@ Assuming the generic human faces are in haarcascade_frontalface_default.xml and 
 
 Assuming the folder with images is called dataset and the output is encodings.pickle.
 
-(hog is reccomended over cnn because it is much faster to encode)
-
 ###### Python Modules Required:
 Pygame (pip install pygame),
 imutils (pip install imutils),
